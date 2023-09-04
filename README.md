@@ -1,3 +1,1 @@
-# alx-low_level_programming
-
-a new read me for 0x14. C - Bit manipulation project
+lx low level programming. a non-empty read me
